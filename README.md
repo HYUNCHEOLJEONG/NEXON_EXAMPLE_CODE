@@ -4,9 +4,7 @@
 
 ## 📷 이미지 예시
 
-![게임 속 이미지](./NEXON.png)
-
-<img src="./NEXON.png" width="300">
+<img src="./NEXON.png" width="500">
 
 
 ---
