@@ -1,4 +1,4 @@
-![실제 게임 속 모습](library/NEXON.png)
+![실제 게임 속 모습](library/사진/NEXON.png)
 
 
 // 문제 출처: 넥슨 예제 문제 플랫폼 — [버섯 게임]
