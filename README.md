@@ -16,6 +16,3 @@
 ---
 
 
-//isValid 함수
-//top,bottom,left,right 왼쪽 오른쪽 위 아래를 범위를 설정 sum이 10이되고
-//나머지 
